@@ -1,5 +1,5 @@
 # NashvilleHousing-SQLProject
-Cleaning useful information ,removing duplicates, correcting misinformed formats
+Cleaning useless information ,removing duplicates, correcting misinformed formats
 ## list of all the processes :
 - Standardize Date Format 
 - Filling null values of property address by finding similar values in fields with the same ParcelID and different UniqueID
